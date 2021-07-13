@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pulkit Pandey
 - 👀 I have a strong inclination towards data structures and algorithms.
 - 🌱 I have an intermediate level experience with HTML, CSS, JAVASCRIPT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
 
 <!---
 Pulkit-Pandey-09/Pulkit-Pandey-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
