@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pulkit-Pandey-09
+- 👋 Hi, I’m Pulkit Pandey
 - 👀 I have a strong inclination towards data structures and algorithms.
-- 🌱 I have an intermediate experience with HTML, CSS, JAVASCRIPT.
+- 🌱 I have an intermediate level experience with HTML, CSS, JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
